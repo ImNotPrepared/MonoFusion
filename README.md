@@ -31,10 +31,11 @@ pip install git+https://github.com/nerfstudio-project/gsplat.git
 | Task | Status | Due Date |
 |------|--------|----------|
 | Complete installation guide | ✅ Done | - |
-| Add preprocessing scripts | ⏳ Todo | in a week |
-| Create demo notebook | ⏳ Todo | between ICLR and ICCV |
+| Preprocessing scripts | ⏳ Todo | in a week |
+| Drop Code | ⏳ Todo | between ICLR and ICCV |
 
 ## Usage
+Yes we know processing data is a headache, that is why we've got you covered. One button press gets you undistorted, synchronized sparse-view data with all the priors you need.
 
 ### Get Ego-Exo4D Access
 
@@ -64,7 +65,8 @@ We have one-button-push priors generation script that saves depth maps, human ma
 
 
 
-### 
+### Start your own EgoRecon (⏳)
+
 
 
 ## Citation
