@@ -1,5 +1,5 @@
 # (ICCV 25)MonoFusion: Sparse-View 4D Reconstruction via Monocular Fusion
-**[Project Page](https://ImNotPrepared.github.io/research/25_DSR/index.html) | [Arxiv]() | [Data](https://drive.google.com/drive/folders/18H8OOOZLv7OmOen8pGbSLWwu8AvZAZro?usp=sharing)**
+**[Project Page](https://ImNotPrepared.github.io/research/25_DSR/index.html) | [Arxiv](https://arxiv.org/abs/2507.23782) | [Data](https://drive.google.com/drive/folders/18H8OOOZLv7OmOen8pGbSLWwu8AvZAZro?usp=sharing)**
 
 [Zihan Wang](https://imnotprepared.github.io/), [Jeff Tan](https://jefftan969.github.io/), [Tarasha Khurana](https://www.cs.cmu.edu/~tkhurana/)\*, [Neehar Peri](https://www.neeharperi.com)\*, [Deva Ramanan](https://www.cs.cmu.edu/~deva/)
 
@@ -69,4 +69,13 @@ We have one-button-push priors generation script that saves depth maps, human ma
 
 ## Citation
 ```
+@misc{wang2025monofusionsparseview4dreconstruction,
+      title={MonoFusion: Sparse-View 4D Reconstruction via Monocular Fusion}, 
+      author={Zihan Wang and Jeff Tan and Tarasha Khurana and Neehar Peri and Deva Ramanan},
+      year={2025},
+      eprint={2507.23782},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.23782}, 
+}
 ```
