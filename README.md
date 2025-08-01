@@ -30,7 +30,7 @@ pip install git+https://github.com/nerfstudio-project/gsplat.git
 
 | Task | Status | Due Date |
 |------|--------|----------|
-| Complete installation guide | ✅ Done | - |
+| Drop data and environ build guide | ✅ Done | - |
 | Preprocessing scripts | ⏳ Todo | in a week |
 | Drop Code | ⏳ Todo | between ICLR and ICCV |
 
