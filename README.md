@@ -68,6 +68,7 @@ We have one-button-push priors generation script that saves depth maps, human ma
 ### Start your own EgoRecon (⏳)
 
 ## Citation
+If you find our data, code processing, or project useful, please kindly consider citing our work: 
 ```
 @misc{wang2025monofusionsparseview4dreconstruction,
       title={MonoFusion: Sparse-View 4D Reconstruction via Monocular Fusion}, 
