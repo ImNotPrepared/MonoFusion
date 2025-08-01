@@ -35,7 +35,7 @@ pip install git+https://github.com/nerfstudio-project/gsplat.git
 | Drop Code | ⏳ Todo | between ICLR and ICCV |
 
 ## Usage
-Yes we know processing data is a headache, that is why we've got you covered. One button press gets you undistorted, synchronized sparse-view data with all the priors you need.
+We understand that data processing can be complex and time-consuming. Our solution streamlines this workflow - with a single run, you'll receive undistorted, synchronized sparse-view data complete with all necessary priors.
 
 ### Get Ego-Exo4D Access
 
